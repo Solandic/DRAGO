@@ -1,0 +1,11 @@
+(function webpackUniversalModuleDefinition(root, factory) {
+	if(typeof exports === 'object' && typeof module === 'object')
+		module.exports = factory(require("lodash"));
+	else if(typeof define === 'function' && define.amd)
+		define("blocks-client-viewer-app", ["lodash"], factory);
+	else if(typeof exports === 'object')
+		exports["blocks-client-viewer-app"] = factory(require("lodash"));
+	else
+		root["blocks-client-viewer-app"] = factory(root["lodash"]);
+})((typeof self !== 'undefined' ? self : this), (__WEBPACK_EXTERNAL_MODULE__773__) => {
+return 

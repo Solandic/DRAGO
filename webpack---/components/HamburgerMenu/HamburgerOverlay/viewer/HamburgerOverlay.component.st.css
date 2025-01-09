@@ -1,0 +1,11 @@
+
+  var rt = require("@stylable/runtime/dist/css-runtime-stylesheet.js");
+
+  module.exports = rt.create(
+      "HamburgerOverlay547129737",
+      {"classes":{"root":"HamburgerOverlay547129737__root","overlay":"HamburgerOverlay547129737__overlay","scrollContent":"HamburgerOverlay547129737__scrollContent"},"vars":{"above-all-z-index":"--above-all-z-index","wix-ads-height":"--wix-ads-height"},"stVars":{},"keyframes":{},"layers":{}},
+      "",
+      -1,
+      module.id
+  );
+  

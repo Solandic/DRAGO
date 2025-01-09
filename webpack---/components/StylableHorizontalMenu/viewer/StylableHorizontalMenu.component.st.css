@@ -1,0 +1,11 @@
+
+  var rt = require("@stylable/runtime/dist/css-runtime-stylesheet.js");
+
+  module.exports = rt.create(
+      "StylableHorizontalMenu3372578893",
+      {"classes":{"root":"StylableHorizontalMenu3372578893__root","scrollButton":"StylableHorizontalMenu3372578893__scrollButton","menu":"StylableHorizontalMenu3372578893__menu","menuItem":"StylableHorizontalMenu3372578893__menuItem","columnsLayout":"StylableHorizontalMenu3372578893__columnsLayout","megaMenuWrapper":"StylableHorizontalMenu3372578893__megaMenuWrapper","positionBox":"StylableHorizontalMenu3372578893__positionBox","containerPositionBox":"StylableHorizontalMenu3372578893__containerPositionBox"},"vars":{"focus-ring-box-shadow":"--focus-ring-box-shadow"},"stVars":{"wrap":"var(--menu-flex-wrap, wrap)","container-margin-top":"var(--containerMarginTop)"},"keyframes":{},"layers":{}},
+      "",
+      -1,
+      module.id
+  );
+  

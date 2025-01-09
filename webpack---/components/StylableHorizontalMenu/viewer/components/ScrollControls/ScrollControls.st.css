@@ -1,0 +1,11 @@
+
+  var rt = require("@stylable/runtime/dist/css-runtime-stylesheet.js");
+
+  module.exports = rt.create(
+      "ScrollControls2015960785",
+      {"classes":{"root":"ScrollControls2015960785__root"},"vars":{},"stVars":{"display-controls":"var(--scroll-controls-display, flex)"},"keyframes":{},"layers":{}},
+      "",
+      -1,
+      module.id
+  );
+  

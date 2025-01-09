@@ -1,0 +1,11 @@
+
+  var rt = require("@stylable/runtime/dist/css-runtime-stylesheet.js");
+
+  module.exports = rt.create(
+      "ScrollButton2305195801",
+      {"classes":{"root":"ScrollButton2305195801__root","icon":"ScrollButton2305195801__icon"},"vars":{},"stVars":{},"keyframes":{},"layers":{}},
+      "",
+      -1,
+      module.id
+  );
+  

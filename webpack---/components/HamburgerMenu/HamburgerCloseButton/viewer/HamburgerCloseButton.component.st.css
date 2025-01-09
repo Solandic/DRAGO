@@ -1,0 +1,11 @@
+
+  var rt = require("@stylable/runtime/dist/css-runtime-stylesheet.js");
+
+  module.exports = rt.create(
+      "HamburgerCloseButton1855956175",
+      {"classes":{"root":"HamburgerCloseButton1855956175__root"},"vars":{},"stVars":{},"keyframes":{},"layers":{}},
+      "",
+      -1,
+      module.id
+  );
+  

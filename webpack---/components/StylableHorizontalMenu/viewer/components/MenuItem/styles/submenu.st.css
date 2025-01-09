@@ -1,0 +1,11 @@
+
+  var rt = require("@stylable/runtime/dist/css-runtime-stylesheet.js");
+
+  module.exports = rt.create(
+      "submenu815198092",
+      {"classes":{"root":"submenu815198092__root","menuItem":"submenu815198092__menuItem","heading":"submenu815198092__heading","listWrapper":"submenu815198092__listWrapper","pageWrapper":"submenu815198092__pageWrapper","pageStretchWrapper":"submenu815198092__pageStretchWrapper","containerPageStretchWrapper":"submenu815198092__containerPageStretchWrapper","overrideWidth":"submenu815198092__overrideWidth","rowItem":"submenu815198092__rowItem"},"vars":{},"stVars":{},"keyframes":{},"layers":{}},
+      "",
+      -1,
+      module.id
+  );
+  

@@ -1,0 +1,11 @@
+
+  var rt = require("@stylable/runtime/dist/css-runtime-stylesheet.js");
+
+  module.exports = rt.create(
+      "itemDepth02233374943",
+      {"classes":{"root":"itemDepth02233374943__root","container":"itemDepth02233374943__container","label":"itemDepth02233374943__label","itemWrapper":"itemDepth02233374943__itemWrapper","positionBox":"itemDepth02233374943__positionBox","animationBox":"itemDepth02233374943__animationBox","megaMenuComp":"itemDepth02233374943__megaMenuComp","alignBox":"itemDepth02233374943__alignBox","list":"itemDepth02233374943__list"},"vars":{},"stVars":{"columns-count":"var(--columnsAmount)","horizontal-spacing":"var(--horizontalSpacing)","white-space":"var(--white-space)","is-animated":"var(--is-animated)","animation-box-max-height":"var(--max-height, none)","animation-box-overflow-y":"var(--overflow-y, visible)","position-box-z-index":"var(--position-box-z-index, 47)"},"keyframes":{"fadeIn":"itemDepth02233374943__fadeIn"},"layers":{}},
+      "",
+      -1,
+      module.id
+  );
+  
